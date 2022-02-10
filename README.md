@@ -1,8 +1,8 @@
-# WebSite Gerenciador de Pedidos
-Sistema Gerenciador de Pedidos desenvolvido em ReactJS e Typescript
+# Summary
+Order Manager Website using React.js and Typescript
 
-## Repositório da Api
+## API Repository
 https://github.com/kevinka999/gerenciador-pedidos-api
 
-## Link para teste no Heroku
+## Deploy
 https://gerenciador-pedidos-website.herokuapp.com/
